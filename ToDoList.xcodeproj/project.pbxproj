@@ -30,6 +30,7 @@
 		DC0CD37F2A0844D2008403C2 /* LogInView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0CD37E2A0844D2008403C2 /* LogInView-ViewModel.swift */; };
 		DC0CD3812A0844E2008403C2 /* RegisterView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0CD3802A0844E2008403C2 /* RegisterView-ViewModel.swift */; };
 		DC0CD3832A0844FE008403C2 /* ToDoListItemView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0CD3822A0844FE008403C2 /* ToDoListItemView-ViewModel.swift */; };
+		DC0CD3852A084B3B008403C2 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0CD3842A084B3B008403C2 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		DC0CD37E2A0844D2008403C2 /* LogInView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LogInView-ViewModel.swift"; sourceTree = "<group>"; };
 		DC0CD3802A0844E2008403C2 /* RegisterView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RegisterView-ViewModel.swift"; sourceTree = "<group>"; };
 		DC0CD3822A0844FE008403C2 /* ToDoListItemView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoListItemView-ViewModel.swift"; sourceTree = "<group>"; };
+		DC0CD3842A084B3B008403C2 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				DC0CD36C2A084397008403C2 /* LogInView.swift */,
 				DC0CD36E2A0843A6008403C2 /* RegisterView.swift */,
 				DC0CD3702A0843C6008403C2 /* ToDoListItemView.swift */,
+				DC0CD3842A084B3B008403C2 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC0CD3812A0844E2008403C2 /* RegisterView-ViewModel.swift in Sources */,
+				DC0CD3852A084B3B008403C2 /* HeaderView.swift in Sources */,
 				DC0CD36D2A084397008403C2 /* LogInView.swift in Sources */,
 				DC0CD34E2A083AF1008403C2 /* MainView.swift in Sources */,
 				DC0CD36B2A084389008403C2 /* NewItemView.swift in Sources */,
